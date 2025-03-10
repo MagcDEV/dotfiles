@@ -14,4 +14,6 @@ export PATH="$HOME/.dotnet/tools:$PATH"
 export TZ="America/Argentina/Buenos_Aires"
 export MANPAGER='nvim +Man!'
 
+eval "$(zoxide init bash)"
+
 fastfetch
