@@ -22,10 +22,14 @@ vim.api.nvim_set_hl(0, "NonText", { bg = "none" })
 vim.api.nvim_set_hl(0, "NeoTreeNormal", { bg = "NONE", ctermbg = "NONE" })
 vim.api.nvim_set_hl(0, "NeoTreeNormalNC", { bg = "NONE", ctermbg = "NONE" })
 
-
-
 -- Set keymap to float windows with error and warnings 
 vim.keymap.set("n", "<leader>q", ":lua vim.diagnostic.open_float()<CR>", {})
+
+--Set keymap for copilot chat
+vim.keymap.set("n", "<leader>cp", ":CopilotChatOpen<CR>", {})
+
+-- Set keymap for copilot chat toggle
+vim.keymap.set("n", "<leader>ct", ":CopilotChatToggle<CR>", {})
 
 -- Set the font color of line numbers
 vim.api.nvim_set_hl(0, "LineNr", { fg = "#f7f5f5" })
