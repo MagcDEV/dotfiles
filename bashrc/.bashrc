@@ -16,4 +16,7 @@ export MANPAGER='nvim +Man!'
 
 eval "$(zoxide init bash)"
 
+# Set up fzf key bindings and fuzzy completion
+eval "$(fzf --bash)"
+
 fastfetch

@@ -1,5 +1,5 @@
 {
-  "CopilotChat.nvim": { "branch": "main", "commit": "b8911c6da0d69f83fac46f613344fe9bbc6f670c" },
+  "CopilotChat.nvim": { "branch": "main", "commit": "340f47ea089758beb408bf4acbe0ce61b7111aea" },
   "LuaSnip": { "branch": "master", "commit": "c9b9a22904c97d0eb69ccb9bab76037838326817" },
   "boilersharp.nvim": { "branch": "master", "commit": "dbd5e7e1a3ab8766cc5e670bce805b120c19c703" },
   "catppuccin": { "branch": "main", "commit": "5b5e3aef9ad7af84f463d17b5479f06b87d5c429" },
@@ -21,7 +21,7 @@
   "nvim-dap-virtual-text": { "branch": "master", "commit": "df66808cd78b5a97576bbaeee95ed5ca385a9750" },
   "nvim-lspconfig": { "branch": "master", "commit": "fb733ac734249ccf293e5c8018981d4d8f59fa8f" },
   "nvim-nio": { "branch": "master", "commit": "21f5324bfac14e22ba26553caf69ec76ae8a7662" },
-  "nvim-treesitter": { "branch": "master", "commit": "e70cb73e943db7483b0ea86a55e80d471bcb995c" },
+  "nvim-treesitter": { "branch": "master", "commit": "e329e94a6a0a5ccf6ec8bfec1d10faf5eaae665f" },
   "nvim-web-devicons": { "branch": "master", "commit": "4c3a5848ee0b09ecdea73adcd2a689190aeb728c" },
   "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
   "telescope-ui-select.nvim": { "branch": "master", "commit": "6e51d7da30bd139a6950adf2a47fda6df9fa06d2" },
